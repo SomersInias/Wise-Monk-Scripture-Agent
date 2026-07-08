@@ -110,3 +110,4 @@ This highlights how the system can be monitored and improved in a production-lik
  
 * The vector database is in-memory, so the library needs to be re-loaded when the runtime restarts (swap in Chroma with a persist directory for a persistent version)
 * PDF page numbers refer to the page index in the PDF file, which can differ from the printed chapter/verse numbering in the original book
+* Each PDF scripture was downloaded as public domain 
